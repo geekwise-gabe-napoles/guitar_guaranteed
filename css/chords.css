@@ -1,0 +1,73 @@
+*{
+    font-family: 'Acme', sans-serif;;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    
+    margin: 0;
+    padding: 0;
+    
+    box-sizing: border-box;
+    
+    font-size: 62.5%;
+}
+
+header{
+    font-size: 2.0rem;
+    background-color: #992a0c;
+    
+    text-align: center;
+    border: 1px solid black;
+}
+
+a{
+   text-decoration: none; 
+}
+
+#home{
+    font-size: 2rem;
+    
+    color: black;
+}
+
+#explanation{
+    font-size: 2rem;
+}
+
+#beginners_chords{
+    margin-left: 38rem;
+}
+
+#beginners_title{
+    font-size: 2.2rem;
+    
+    margin-left: 53rem;
+}
+
+#beginners_explanation{
+    font-size: 1.8rem;
+    
+    margin-left: 10rem;
+}
+
+#advanced_chords{
+    height: 60rem;
+    width: 50rem;
+    
+    margin-left: 38rem;
+}
+
+#advanced_title{
+    font-size: 2.2rem;
+    
+    margin-left: 53rem;
+}
+
+#advanced_explanation{
+    font-size: 1.8rem;
+    
+    margin-left: 18rem;
+}
+

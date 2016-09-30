@@ -26,38 +26,14 @@ a{
    text-decoration: none; 
 }
 
-.tab{
+#home{
     font-size: 2rem;
     
     color: black;
-    
-    margin-left: 19rem;
-    margin-right: 17rem;
 }
 
-#greeting_top{
-    font-size: 3rem;
+#videos{
+    font-size: 2rem;
     
-    margin-left: 50rem;
+    margin-left: 26rem;
 }
-
-#greeting_img{
-    
-    
-    margin-left: 52rem;
-}
-
-#logo{
-    height: 25rem;
-    width: 25rem;
-}
-
-#greeting_bottom{
-    font-size: 3rem;
-    
-    margin-left: 46rem;
-}
-
-
-
-
